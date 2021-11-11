@@ -1,3 +1,3 @@
 <div align="center">
-   <img alt='Metrics' src='https://github.com/C10udburst/C10udburst/blob/main/github-metrics.svg'>
+   <a href="#!"><img alt="Metrics" src="https://raw.githubusercontent.com/C10udburst/C10udburst/master/github-metrics.svg"></a>
 </div>
