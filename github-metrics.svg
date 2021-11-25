@@ -1877,9 +1877,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.8526721232547" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="437.8526721232547" y="0" width="11.643166655203247" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="449.49583877845794" y="0" width="10.50416122154206" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.8888715589176" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="434.8888715589176" y="0" width="13.201278951883335" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.09015051080087" y="0" width="11.909849489199095" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1889,8 +1889,8 @@
                       Kotlin
                     </div>
                             <small>
-                                <div>13.8 kB</div>
-                                <div>95.19%</div>
+                                <div>12.1 kB</div>
+                                <div>94.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1900,7 +1900,7 @@
                     </div>
                             <small>
                                 <div>332 bytes</div>
-                                <div>2.28%</div>
+                                <div>2.59%</div>
                             </small>
                         </div>
                     </section>
@@ -1912,7 +1912,7 @@
                     </div>
                             <small>
                                 <div>368 bytes</div>
-                                <div>2.53%</div>
+                                <div>2.87%</div>
                             </small>
                         </div>
                     </section>
@@ -3860,7 +3860,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2021, 16:17:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 25 Nov 2021, 19:18:33 (timezone Europe/Warsaw) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
