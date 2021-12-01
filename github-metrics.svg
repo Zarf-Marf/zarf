@@ -2079,24 +2079,19 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 59.90036532713384%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">75%</span>
-                        </div>
-                        <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 14.579873796081035%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">18%</span>
+                            <div class="bar" style="width: 58.030403172504954%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">73%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 4.330787113915643%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 17.23727693324521%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">22%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 1.1889737628694785%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
+                            <div class="bar" style="width: 4.732319894249835%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6%</span>
                         </div>
                     </div>
                 </section>
@@ -3854,7 +3849,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2021, 19:19:21 (timezone Europe/Warsaw) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 1 Dec 2021, 22:14:28 (timezone Europe/Warsaw) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
